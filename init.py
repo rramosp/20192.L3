@@ -1,8 +1,7 @@
 course_id = '20192.L3'
 github_repo = 'rramosp/%s'%course_id
 zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
-endpoint = 'http://localhost:5000/rlxmooc'
-endpoint = 'https://9kh5rvehf0.execute-api.us-west-2.amazonaws.com/dev/rlxmooc'
+endpoint = 'https://m3g87w9l3k.execute-api.us-west-2.amazonaws.com/dev/rlxmooc'
 
 def get_last_modif_date(localdir):
     try:
@@ -32,5 +31,6 @@ def init(force_download=False):
 
 def get_weblink():
     from IPython.display import HTML
+    print ("endpoint", endpoint)
     return HTML("<h3>See <a href='"+endpoint+"/web/login' target='_blank'>my courses and progress</a></h2>")
 
