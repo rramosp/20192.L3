@@ -2,7 +2,7 @@
 
 ## 2019 - Semestre II - Universidad de Antioquia
 
-#### [REGISTRATE AQUI](https://forms.gle/ivvhRP8dpzrCXh2k9)
+#### [REGISTRATE AQUI](https://forms.gle/ivvhRP8dpzrCXh2k9) || [PLATAFORMA DE CALIFICACIONES](https://m3g87w9l3k.execute-api.us-west-2.amazonaws.com/dev/rlxmooc)
 
 ## Google Colab
 
