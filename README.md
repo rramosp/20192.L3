@@ -46,6 +46,12 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     Habilitaciones:   21-25/abril
     Terminacion:      4/mayo
 
+## Evaluación
+
+- 40% talleres
+- 30% quizes
+- 30% MOOC
+
 
 ## Online Courses (MOOC)
 Habrás de realizar algún MOOC online que trate sobre un tema STEM (Science, Technology, Engineering, Mathematics) y tendrá que consitituir aproximadamente 20 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso. Puedes hacerlo en cualquier plataforma existente, como por ejemplo: [Coursera](www.coursera.org), [EDX](www.edx.org), [Udacity](www.udacity.org), [MiriadaX](https://miriadax.net/), etc.
