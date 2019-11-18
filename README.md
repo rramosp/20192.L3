@@ -21,7 +21,7 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     18/nov    1     welcome    python      01 TAD, lista	
     25/nov    2     TALLER     TALLER      02 polinomios 	
     02/dic    3     TALLER     TALLER      03 matrices dispersas 	
-    09/dic    4     TALLER     TALLER      04 repr in memoria	            TALLERES 1-4
+    09/dic    4     TALLER     TALLER      04 repr in memoria             TALLERES 1-4
     16/dic    5     prep       parcial     rev parcial                    MOOC ENTREGA 1
     --------------------- VACACIONES --------------------------------
     20/ene    6     TALLER     TALLER      05 listas generalizadas                  
