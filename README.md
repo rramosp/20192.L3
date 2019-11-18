@@ -16,12 +16,12 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
 
                     ------------- CLASSROOMS --------------------
                     MON        TUE         THU
-    weekstart week# 18-210     20-343      19-305                      deadlines (domingo 11pm)
+    weekstart week# 18-210     20-343      19-205                      deadlines (domingo 11pm)
     ----------------------------------------------------------------------------------------------
     18/nov    1     welcome    python      01 TAD, lista	
     25/nov    2     TALLER     TALLER      02 polinomios 	
     02/dic    3     TALLER     TALLER      03 matrices dispersas 	
-    09/dic    4     TALLER     TALLER      04 repr in memoria	          TALLERES 1-4
+    09/dic    4     TALLER     TALLER      04 repr in memoria	            TALLERES 1-4
     16/dic    5     prep       parcial     rev parcial                    MOOC ENTREGA 1
     --------------------- VACACIONES --------------------------------
     20/ene    6     TALLER     TALLER      05 listas generalizadas                  
