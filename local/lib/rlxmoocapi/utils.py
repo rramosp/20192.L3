@@ -74,7 +74,7 @@ def deploy_course(admin, teacher,
                   cspec_file,
                   aggregate_tasks_code=None,
                   aggregate_submissions_code=None,
-                  set_grader_notebooks_regexp="",
+                  set_grader_notebooks_fileglob="",
                   force_reset=True):
     import json, re, inspect, pickle, base64, time
     
@@ -107,7 +107,7 @@ def deploy_course(admin, teacher,
     admin.create_course(cspec, owner=teacher.user_id)       
                 
     import glob
-    notebooks = glob.glob(set_grader_notebooks_regexp)
+    notebooks = glob.glob(set_grader_notebooks_fileglob)
     for notebook in notebooks:
         print ("RUNNING SETGRADERS IN %-50s"%("'"+notebook+"'"), end=" .. ")
         code = get_definegrader_cells(notebook)

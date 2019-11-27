@@ -150,7 +150,7 @@ class Session:
     def delete_course_session(self, course_id, session_id):
         self.do_delete("courses/%s/sessions/%s"%(course_id, session_id))
 
-    def delete_user_session(self, user_id, course_id, session_id,delete_grades_and_submissions=True):
+    def delete_user_session(self, user_id, course_id, session_id, delete_grades_and_submissions=False):
         data = {"delete_grades_and_submissions": str(delete_grades_and_submissions)}
         self.do_delete("users/%s/courses/%s/sessions/%s"%(user_id, course_id, session_id), data=data)
 
