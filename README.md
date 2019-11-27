@@ -2,7 +2,7 @@
 
 ## 2019 - Semestre II - Universidad de Antioquia
 
-#### [REGISTRATE AQUI](https://forms.gle/ivvhRP8dpzrCXh2k9)
+#### [REGISTRATE AQUI](https://forms.gle/ivvhRP8dpzrCXh2k9) || [PLATAFORMA DE CALIFICACIONES](https://m3g87w9l3k.execute-api.us-west-2.amazonaws.com/dev/rlxmooc/web/login)
 
 ## Google Colab
 
@@ -16,12 +16,12 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
 
                     ------------- CLASSROOMS --------------------
                     MON        TUE         THU
-    weekstart week# 18-210     20-343      19-305                      deadlines (domingo 11pm)
+    weekstart week# 18-210     20-343      19-205                      deadlines (domingo 11pm)
     ----------------------------------------------------------------------------------------------
     18/nov    1     welcome    python      01 TAD, lista	
     25/nov    2     TALLER     TALLER      02 polinomios 	
     02/dic    3     TALLER     TALLER      03 matrices dispersas 	
-    09/dic    4     TALLER     TALLER      04 repr in memoria	          TALLERES 1-4
+    09/dic    4     TALLER     TALLER      04 repr in memoria             TALLERES 1-4
     16/dic    5     prep       parcial     rev parcial                    MOOC ENTREGA 1
     --------------------- VACACIONES --------------------------------
     20/ene    6     TALLER     TALLER      05 listas generalizadas                  
@@ -45,6 +45,12 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
     Examenes finales: 13-20/abril
     Habilitaciones:   21-25/abril
     Terminacion:      4/mayo
+
+## Evaluación
+
+- 40% talleres
+- 30% quizes
+- 30% MOOC
 
 
 ## Online Courses (MOOC)
