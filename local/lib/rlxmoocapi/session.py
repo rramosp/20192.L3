@@ -1,6 +1,29 @@
 import requests, json, getpass, inspect, pickle, codecs
+from time import time, sleep
 from IPython.core.display import display, HTML
 import inspect
+
+
+mf_tlastcall = None
+def maxfreq(maxlapse=5):
+    """
+    ensures function calls are at least 'maxlapse' seconds apart
+    forces sleep until 'maxlapse' happens
+    """
+    def wrapper(func):
+        def function_wrapper(*args, **kwargs):
+            global mf_tlastcall
+
+            if mf_tlastcall is not None:
+                t = time()-mf_tlastcall
+                if t<maxlapse:
+                    sleep(maxlapse-t)
+
+            mf_tlastcall = time()
+            return func(*args, **kwargs)
+
+        return function_wrapper
+    return wrapper
 
 class Session:
     
@@ -8,6 +31,7 @@ class Session:
         self.endpoint = endpoint
         self.token    = None
 
+    @maxfreq()
     def do(self, request_function, url, data=None, loggedin_required=True):
         assert not loggedin_required or self.token is not None, "must login first"
         resp = request_function(self.endpoint+"/api/"+url, json=data, 
