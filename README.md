@@ -37,9 +37,9 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
 
 ## Calendario
 
-30/may fin de clases
-1-6/jun habilitaciones y reporte de notas
-8-13/jun validaciones y reporte de notas
+    30/may fin de clases
+    1-6/jun habilitaciones y reporte de notas
+    8-13/jun validaciones y reporte de notas
 
 
 ## Evaluación
