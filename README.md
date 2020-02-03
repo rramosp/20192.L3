@@ -18,33 +18,29 @@ El curso utilizará la plataforma de Google Colab para la ejecución de los note
                     MON        TUE         THU
     weekstart week# 18-210     20-343      19-205                      deadlines (domingo 11pm)
     ----------------------------------------------------------------------------------------------
-    18/nov    1     welcome    python      01 TAD, lista	
-    25/nov    2     TALLER     TALLER      02 polinomios 	
-    02/dic    3     TALLER     TALLER      03 matrices dispersas 	
-    09/dic    4     TALLER     TALLER      04 repr in memoria             TALLERES 1-4
-    16/dic    5     prep       parcial     rev parcial                    MOOC ENTREGA 1
+    03/feb    1     welcome    python      01 TAD, lista	
+    10/feb    2     TALLER     TALLER      02 polinomios 	
+    17/feb    3     TALLER     TALLER      03 matrices dispersas 	
+    24/feb    4     TALLER     TALLER      04 repr in memoria             TALLERES 1-4 (1/mar)
+    02/mar    5     prep       parcial     rev parcial                    MOOC ENTREGA 1 (8/mar)
+    09/mar    6     TALLER     TALLER      05 listas generalizadas                  
+    16/mar    7     TALLER     TALLER      06 árboles, binarios  
+    23/mar    8     FESTIVO    TALLER      07 árboles y búsqueda        
     --------------------- VACACIONES --------------------------------
-    20/ene    6     TALLER     TALLER      05 listas generalizadas                  
-    27/ene    7     TALLER     TALLER      06 árboles, binarios  
-    03/feb    8     TALLER     TALLER      07 árboles y búsqueda        
-    10/feb    9     TALLER     TALLER      08 grados                      TALLERES 5-8 
-    17/feb   10     prep       parcial-2   rev parcial
-    24/feb   11     TALLER     TALLER      09 algos sobre grafos 1 
-    02/mar   12     TALLER     TALLER      10 algos sobre grafos 2      
-    08/mar   13     TALLER     TALLER      11 algos geneticos          
-    16/mar   14     TALLER     TALLER      12 simulated annealing         TALLERES 9-12
-    23/mar   15     prep       parcial-3   rev parcial                    MOOC ENTREGA FINAL
-    30/mar   16
+    13/abr    9     TALLER     TALLER      08 grados                      TALLERES 5-8 (19/abr)
+    20/abr   10     prep       parcial-2   rev parcial
+    27/abr   11     TALLER     TALLER      09 algos sobre grafos 1 
+    04/may   12     TALLER     TALLER      10 algos sobre grafos 2      
+    11/may   13     TALLER     TALLER      11 algos geneticos          
+    18/may   14     TALLER     12 simann   prep parcial                   TALLERES 9-12 (24/may)
+    25/may   15     FESTIVO    parcial-3   rev parcial                    MOOC ENTREGA FINAL (31/may)
 
 ## Calendario
 
-    Inicio de clases: Lunes   18/nov
-    Vacaciones:       Lunes   23/dic - Viernes 17/ene
-    40% evaluado:     Sabado   8/feb
-    Fin de clases:    Viernes  4/abr
-    Examenes finales: 13-20/abril
-    Habilitaciones:   21-25/abril
-    Terminacion:      4/mayo
+30/may fin de clases
+1-6/jun habilitaciones y reporte de notas
+8-13/jun validaciones y reporte de notas
+
 
 ## Evaluación
 
